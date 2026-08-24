@@ -1,4 +1,4 @@
-package com.decomp.rsdkv4;
+package com.decomp.rsdkv4h;
 
 import android.Manifest;
 import android.content.Context;
