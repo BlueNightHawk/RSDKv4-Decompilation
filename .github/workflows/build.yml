@@ -65,5 +65,3 @@ jobs:
         with:
           name: v4-android
           path: ./android/app/build/outputs/apk
-          name: v4-linux
-          path: linux.tar.gz
